@@ -1,0 +1,53 @@
+# לוח זמנים לפי שיטת אור החיים תל אביב — Generative Engine Optimization Map
+
+> A דתי/קהילתי business.
+
+---
+
+## Pages
+
+### Home
+https://-e73713d0.zappy5.app
+
+### About
+https://-e73713d0.zappy5.app/about
+
+### Programs & Calendar
+https://-e73713d0.zappy5.app/programs
+
+### Contact
+https://-e73713d0.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-e73713d0.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-e73713d0.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-e73713d0.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About לוח זמנים לפי שיטת אור החיים תל אביב
+לוח זמנים לפי שיטת אור החיים תל אביב is a business in the דתי/קהילתי industry.
+
+## Target Audience
+קהילת אור החיים תל אביב
+
+## Industry
+דתי/קהילתי
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-e73713d0.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-e73713d0.zappy5.app/robots.txt
