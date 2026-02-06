@@ -1,43 +1,53 @@
-# Business — Generative Engine Optimization Map
+# לוח זמנים לפי שיטת אור החיים תל אביב — Generative Engine Optimization Map
+
+> A דתי/קהילתי business.
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://ohr-hachaim-tel-aviv-schedule.zappy5.app
 
 ### About
-https://example.com/about
+https://ohr-hachaim-tel-aviv-schedule.zappy5.app/about
 
 ### Programs & Calendar
-https://example.com/programs
+https://ohr-hachaim-tel-aviv-schedule.zappy5.app/programs
 
 ### Contact
-https://example.com/contact
+https://ohr-hachaim-tel-aviv-schedule.zappy5.app/contact
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://ohr-hachaim-tel-aviv-schedule.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://ohr-hachaim-tel-aviv-schedule.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://ohr-hachaim-tel-aviv-schedule.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About לוח זמנים לפי שיטת אור החיים תל אביב
+לוח זמנים לפי שיטת אור החיים תל אביב is a business in the דתי/קהילתי industry.
+
+## Target Audience
+קהילת אור החיים תל אביב
+
+## Industry
+דתי/קהילתי
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://ohr-hachaim-tel-aviv-schedule.zappy5.app/sitemap.xml
+- **Robots.txt**: https://ohr-hachaim-tel-aviv-schedule.zappy5.app/robots.txt
